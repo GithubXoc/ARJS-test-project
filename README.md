@@ -14,4 +14,6 @@ Runs the app in the development mode.
 
 Open http://localhost:8080 to view it in your browser.
 
+Additionally this app requires web camera.
+
 In the browser your camera tracks **`base image /pattern-K.png/`** and render 3D models.
